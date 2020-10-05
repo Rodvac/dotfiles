@@ -46,3 +46,6 @@
 
 [branch "master"]
   mergeoptions = --no-edit
+[user]
+	email = rodolphe.vacher@edu.emlyon.com
+	name = Rodolphe Vacher
